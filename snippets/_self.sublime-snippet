@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var _self = this${1:;}]]></content>
+    <tabTrigger>v_</tabTrigger>
+    <scope>source.js</scope>
+    <description>Reference to this called _self</description>
+</snippet>

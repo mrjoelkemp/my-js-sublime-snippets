@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[.then(function (${0:}) {
+      ${1:}
+    })]]></content>
+    <tabTrigger>vt</tabTrigger>
+    <scope>source.js</scope>
+    <description>Reference to this called that</description>
+</snippet>
